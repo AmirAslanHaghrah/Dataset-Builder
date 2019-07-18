@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataset Builder", "Dataset Builder\Dataset Builder.csproj", "{2A1814A6-67A7-47F3-80E5-89C0433085E3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dataset Builder Setup", "Dataset Builder Setup\Dataset Builder Setup.vdproj", "{A57B3154-5CC8-40F4-9DF0-F31D1E8ABAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1814A6-67A7-47F3-80E5-89C0433085E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1814A6-67A7-47F3-80E5-89C0433085E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1814A6-67A7-47F3-80E5-89C0433085E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1814A6-67A7-47F3-80E5-89C0433085E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57B3154-5CC8-40F4-9DF0-F31D1E8ABAED}.Debug|Any CPU.ActiveCfg = Debug
+		{A57B3154-5CC8-40F4-9DF0-F31D1E8ABAED}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A573ABDC-0551-4B41-966C-E845400FAD7F}
+	EndGlobalSection
+EndGlobal
